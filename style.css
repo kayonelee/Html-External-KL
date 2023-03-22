@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    color: white
+}
+.box2   {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+}
+.box1   {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 10%;
+    font-size: 3em;
+}
+ul  {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    width: 45%
+}
+.box2 .searchbar  {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 30%;
+}
+.logincart  {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.hamburger a:hover {
+    background-color: #000000;
+    color: yellow;
+  }
+.hamburger {
+    width:40%;
+ font-size:2em;
+}
+
+
+
+        
+    
