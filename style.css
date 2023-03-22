@@ -46,7 +46,9 @@ ul  {
     /* width:40%; */
  font-size:2em;
 }    
-.searchbar li {
-    display: flex;
-    justify-content: space-between
+.pad    {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
