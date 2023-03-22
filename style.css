@@ -6,7 +6,7 @@
 }
 .box2   {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     width: 90%;
 }
 .box1   {
@@ -23,13 +23,13 @@ ul  {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    width: 40%
+    width: 90%;
 }
 .box2 .searchbar  {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    width: 30%;
+    
 }
 .logincart  {
     display: flex;
@@ -43,6 +43,10 @@ ul  {
     color: yellow;
   }
 .hamburger {
-    width:40%;
+    /* width:40%; */
  font-size:2em;
 }    
+.searchbar li {
+    display: flex;
+    justify-content: space-between
+}
