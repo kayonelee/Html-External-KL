@@ -23,7 +23,7 @@ ul  {
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    width: 45%
+    width: 40%
 }
 .box2 .searchbar  {
     display: flex;
@@ -45,9 +45,4 @@ ul  {
 .hamburger {
     width:40%;
  font-size:2em;
-}
-
-
-
-        
-    
+}    
